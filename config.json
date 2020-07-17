@@ -1,0 +1,5 @@
+{
+    "dl": "https://crates.haenerconsulting.com/api/v1/crates/{crate}/{version}/download",
+    "api": "https://crates.haenerconsulting.com",
+    "allowed-registries": ["https://github.com/rust-lang/crates.io-index", "https://bitbucket.haenerconsulting.com/scm/hc/crateindex.git"]
+}
